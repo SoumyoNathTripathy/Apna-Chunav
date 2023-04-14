@@ -87,35 +87,35 @@ npm start
 
 ## Demo Screenshots
 
-#### Landing Page
+### Landing Page
 
 ![Screenshot 2023-03-21 094304](https://user-images.githubusercontent.com/76715464/226516378-478a94ef-b842-4505-bdef-01c1fc4d1af0.png)
 
-#### Add a new candidate
+### Add a new candidate
 
 ![1677394929645](https://user-images.githubusercontent.com/76804228/221397485-dcc9b796-4212-41e3-9d49-0aa21564950a.png)
 
-#### Initialize Voting
+### Initialize Voting
 
 ![1677394973442](https://user-images.githubusercontent.com/76804228/221397495-aa652c0d-e28a-4efc-a0b6-80a7ff20a7b1.png)
 
-#### Voter Registration page
+### Voter Registration page
 
 ![1677395069893](https://user-images.githubusercontent.com/76804228/221397502-1a7035a4-2e7a-4e64-8300-1606bf4efbc2.png)
 
-#### Verification page from the Admin side
+### Verification page from the Admin side
 
 ![1677395387524](https://user-images.githubusercontent.com/76804228/221397507-1ef7944a-259f-45f6-8b99-06da9fe81405.png)
 
-#### Voting page
+### Voting page
 
 ![1677395441904](https://user-images.githubusercontent.com/76804228/221397511-45ceb9b9-85f8-4b21-9cd8-7f3552352399.png)
 
-#### Result Page
+### Result Page
 
 ![1677395513220](https://user-images.githubusercontent.com/76804228/221397514-2d5b503a-7988-4096-879f-7ccb11667b69.png)
 
 
-## Conclusion
+# Conclusion
 
 The decentralized blockchain-based voting system is a secure and transparent way of conducting elections. The system ensures that only eligible users can participate in the elections and that each user can cast only one vote. The use of face matching for KYC verification and IPFS for storing photos and documents ensures that the system is secure and tamper-proof. The integration of Twilio for sending confirmation messages adds an additional layer of security. The system can be used for conducting elections at various levels, including local, national, and international.
