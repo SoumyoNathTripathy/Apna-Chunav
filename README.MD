@@ -6,9 +6,9 @@ This is a decentralized blockchain-based voting system built on Ethereum smart c
 https://www.linkedin.com/in/soumyo-nath-tripathy-55b366208/
 
 ## Team Members
-Soumyo Nath Tripathy
-Shubham Kumar Singh
-Aayush Kumar Singh
+Soumyo Nath Tripathy,
+Shubham Kumar Singh,
+Aayush Kumar Singh,
 Ujjwal Kumar
 
 
