@@ -119,3 +119,9 @@ npm start
 # Conclusion
 
 The decentralized blockchain-based voting system is a secure and transparent way of conducting elections. The system ensures that only eligible users can participate in the elections and that each user can cast only one vote. The use of face matching for KYC verification and IPFS for storing photos and documents ensures that the system is secure and tamper-proof. The integration of Twilio for sending confirmation messages adds an additional layer of security. The system can be used for conducting elections at various levels, including local, national, and international.
+
+## Contributing
+If you find any issues or bugs in the InsideGPT chatbot application, feel free to open an issue or submit a pull request. We welcome contributions from the community.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
